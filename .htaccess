@@ -4,4 +4,4 @@ RewriteBase /
 
 DirectoryIndex index.php
 
-RewriteRule ^(.*)$ index.php [L]
+RewriteRule ^(.*)$ index.html [L]
